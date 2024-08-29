@@ -39,6 +39,30 @@ const ContactMe = () => {
           <p>
             Let's connect! Feel free to reach out—I'll reply soon.
             <br />
+             <a
+              href="https://www.linkedin.com/in/komalsingh9289"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="social-links"
+            >
+              <FaLinkedin size={30} color="#555" className="links"/>
+            </a>
+              <a
+              href="https://github.com/komalSingh9289/komalSingh9289.git"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="social-links"
+            >
+              <FaGithub size={30} color="#555" className="links"/>
+            </a>
+            <a
+              href="https://x.com/Komal_2107"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="social-links"
+            >
+              <FaTwitter size={30} color="#555" className="links"/>
+            </a>
           </p>
           <div className="contact-wrapper">
             <Lottie animationData={contact} loop={true} className="girl" />
