@@ -25,6 +25,6 @@
 </ul>
 
 <h2>Live Demo</h2>
-<p>You can view the live version of my portfolio here.  <a href="portfolio-komalsingh.netlify.app" />Portfolio</a></a></p>
+<p>You can view the live version of my portfolio here.  <a href="https://portfolio-komalsingh.netlify.app" />Portfolio</a></a></p>
 
 
