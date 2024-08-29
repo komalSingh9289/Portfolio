@@ -47,14 +47,7 @@ const ContactMe = () => {
             >
               <FaLinkedin size={30} color="#555" className="links"/>
             </a>
-            <a
-              href="https://github.com/komalSingh9289/komalSingh9289.git"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="social-links"
-            >
-              <FaGithub size={30} color="#555" className="links"/>
-            </a>
+           
             <a
               href="https://x.com/Komal_2107"
               target="_blank"
