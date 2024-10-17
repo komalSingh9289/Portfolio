@@ -4,7 +4,7 @@ const ProjectList = () => {
   return (
     <div className="proj-container">
        <div className="project-card">
-        <img src="blog-cms.png" alt="Blog CMS" />
+        <img src="ecom-site.png" alt="Ecom" />
         <div className="project-card-content">
           <h2>ECOMMERCE [VOGUEVIBE]</h2>
           <p>
