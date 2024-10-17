@@ -3,6 +3,25 @@ import React from "react";
 const ProjectList = () => {
   return (
     <div className="proj-container">
+       <div className="project-card">
+        <img src="blog-cms.png" alt="Blog CMS" />
+        <div className="project-card-content">
+          <h2>ECOMMERCE [VOGUEVIBE]</h2>
+          <p>
+            Designed & Developed an e-commerce website tailored to women's fashion, focused on  
+            providing a seamless shopping experience for clothing, accessories, and bags, etc. 
+          </p>
+          <p className="techuse"> REACT | NODEJS | EXPRESS | TAILWIND CSS | MONGODB </p>
+          <a
+            href="https://github.com/komalSingh9289/Ecom-VogueVibe-.git"
+            className="view-source-btn"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            View Source Code
+          </a>
+        </div>
+      </div>
       <div className="project-card">
         <img src="blog-cms.png" alt="Blog CMS" />
         <div className="project-card-content">
