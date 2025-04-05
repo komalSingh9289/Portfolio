@@ -1,5 +1,5 @@
 import React from "react";
-import KomalPdf from "../assets/images/komalSingh.pdf";
+import komalresume from "../assets/images/komalresume.pdf";
 const MainContent = () => {
   return (
     <section className="main-section">
@@ -11,7 +11,7 @@ const MainContent = () => {
           User-Centric Approach
         </p>
         <button className="btn">
-          <a href={KomalPdf} download="Komal_Resume.pdf">My Resume </a>
+          <a href={komalresume} download="Komal_Resume.pdf">My Resume </a>
         </button>
       </div>
     </div>  
