@@ -170,25 +170,6 @@ const ProjectList = () => {
           </a>
         </div>
       </div>
-      <div className="project-card">
-        <img src="calculator.png" alt="Calculator" />
-        <div className="project-card-content">
-          <h2>Calculator</h2>
-          <p>
-            A functional and interactive calculator application for performing
-            basic arithmetic operations with a user-friendly interface.
-          </p>
-          <p className="techuse"> HTML| CSS | JavaScript </p>
-           <a
-            href="https://github.com/komalSingh9289/Basic-Calculator-using-JS.git"
-            className="view-source-btn"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            View Source Code
-          </a>
-        </div>
-      </div>
     </div>
   );
 };
