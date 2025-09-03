@@ -5,38 +5,43 @@ const About = () => {
     <section>
       <div className="main-content">
         <div className="about-content">
-          <h1 className="title">About Me </h1>
+          <h1 className="title">About Me</h1>
 
           <div className="content--text">
             <ul>
-            <li>
-                <h3>2024 - Till Now</h3>
+              <li>
+                <h3>2025 - Present</h3>
                 <p>
-                 Completed my graduation in BCA from IGNOU.
-                 <br />
-                  Seeking new opportunities as a Developer.
+                  Currently pursuing MCA to strengthen my knowledge in computer
+                  applications and software development.
                   <br />
-                  Focused on continuous growth and exploring new technologies.
+                  Completed a 6-month internship as a MERN Stack Developer,
+                  gaining hands-on experience in real-world projects.
+                  <br />
+                  Actively looking for opportunities to apply my skills and grow
+                  as a developer.
                 </p>
               </li>
               <li>
-                <h3>2023</h3>
+                <h3>2024</h3>
                 <p>
-                  Completed Full Stack Web Development Course and expanded my
-                  skills by continuous learning .
+                  Graduated with a Bachelor of Computer Applications (BCA) from
+                  IGNOU.
+                  <br />
+                  Built a solid foundation in programming, web development, and
+                  databases.
                 </p>
               </li>
               <li>
-                <h3>2020 - 2022</h3>
+                <h3>2022-2023</h3>
                 <p>
                   Started my journey as a web developer, learning HTML, CSS, and
-                  JavaScript. Completed a Full Stack Web Development course and
-                  worked on various projects
+                  JavaScript.
+                  <br />
+                  Completed a Full Stack Web Development course and worked on
+                  various projects.
                 </p>
               </li>
-
-              
-              
             </ul>
           </div>
         </div>
