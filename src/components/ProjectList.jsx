@@ -4,6 +4,55 @@ const ProjectList = () => {
   return (
     <div className="proj-container">
        <div className="project-card">
+  <img src="ecom-site.png" alt="Ecom" />
+  <div className="project-card-content">
+    <h2>ECOMMERCE [VOGUEVIBE]</h2>
+    <p>
+      Designed & Developed an e-commerce website tailored to women's fashion,
+      focused on providing a seamless shopping experience for clothing,
+      accessories, and bags, etc.
+    </p>
+    <p className="techuse">
+      REACT | NODEJS | EXPRESS | TAILWIND CSS | MONGODB
+    </p>
+    <a
+      href="https://github.com/komalSingh9289/Ecom-VogueVibe-.git"
+      className="view-source-btn"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      View Source Code
+    </a>
+  </div>
+</div>
+
+{/* Bookstore Project Card */}
+      <div className="project-card">
+        <img src="bookstore.png" alt="Bookstore" />
+        <div className="project-card-content">
+          <h2>ONLINE BOOKSTORE</h2>
+          <p>
+            Developed a full-stack online bookstore platform that allows users to
+            browse, search, and purchase books with integrated payment gateway.
+            Implemented AI book-recommendation , authentication, admin dashboard, and responsive UI for smooth
+            user experience.
+          </p>
+          <p className="techuse">
+            REACT | NODEJS | EXPRESS | TAILWIND CSS | MONGODB | CASHFREE PAYMENT GATEWAY
+          </p>
+          <a
+            href="https://github.com/komalSingh9289/Bookstore-Project"
+            className="view-source-btn"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            View Source Code
+          </a>
+        </div>
+      </div>
+
+      </div>
+       <div className="project-card">
         <img src="ecom-site.png" alt="Ecom" />
         <div className="project-card-content">
           <h2>ECOMMERCE [VOGUEVIBE]</h2>
